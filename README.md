@@ -1,4 +1,4 @@
 # vue-crollbar
 A Vue.js select component
 
-npm install gaoshuai0525/vue-tree
+npm install gaoshuai0525/vue-scrollbar
