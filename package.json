@@ -1,6 +1,6 @@
 {
   "name": "vue-scrollbar_gaoshuai",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "select component for Vue.js.",
   "main": "dist/vue-scrollbar.js",
   "scripts": {
